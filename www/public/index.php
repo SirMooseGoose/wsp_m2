@@ -6,6 +6,7 @@
    <title>Document</title>
 </head>
 <body>
+    <h1>hej</h1>
 <?php
     include('inc/math.php'); 
 
